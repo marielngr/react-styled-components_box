@@ -8,7 +8,6 @@
 .box-with-classname:hover {
   background-color: red;
 }
-
 .box-with-classname--black {
   background-color: black;
 }
